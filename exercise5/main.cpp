@@ -44,14 +44,7 @@ int main() {
 	}
 }
 
-		//cv::Mat frame;
-		//cv::Mat SobelMat;
-		//cap.read(frame);
-		//Sobel(frame, SobelMat, 6, 1, 1, 3, 1, 0);
-		//imshow("SobelMat", SobelMat);
-		//imshow("frame", frame);
-		//waitKey(30);
-
+	
 
 
 
